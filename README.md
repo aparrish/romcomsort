@@ -7,6 +7,12 @@ sentences from Wikipedia plot summaries of romantic comedies. [Read the result
 here](output.pdf) (PDF, 1500pp). A [plain text version](output.txt) is also
 available.
 
+A warning about the text: I have not meaningfully filtered the output of this
+code, so the appropriateness of its contents draws purely from Wikipedia's
+editorial guidelines. For this reason, I consider the text to be a kind of
+"documentary artifact" rather than a finished piece. Please read with this in
+mind!
+
 [Implementation source code and notes.](sort-romcoms.ipynb)
 
 ## License
